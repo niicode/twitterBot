@@ -35,6 +35,6 @@ class TwitterBot:
             print(links)
 
 
-end = TwitterBot("@kdarkulive", "Godfirst")
+# end = TwitterBot("", "") #You can input your twitter username and password into the open brackets
 end.login()
 end.like_tweet('webdevelopment')
