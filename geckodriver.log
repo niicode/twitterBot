@@ -1,0 +1,266 @@
+1591542338775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZzO5KC"
+1591542341346	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591542345409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591542345410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591542345411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591542345411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591542357365	Marionette	INFO	Listening on port 41675
+1591542357429	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591543639564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIDEL70"
+1591543643541	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591543647080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591543647080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591543647081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591543647084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591543664599	Marionette	INFO	Listening on port 42125
+1591543664656	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591543740342	Marionette	INFO	Stopped listening on port 42125
+1591543744984	Marionette	INFO	Stopped listening on port 41675
+1591544499732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledITjB4"
+1591544507168	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591544511442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591544511443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591544511443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591544511444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591544545205	Marionette	INFO	Listening on port 45849
+1591544545280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591547618280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQj3Hxl"
+1591547621234	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591547624556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591547624557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591547624557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591547624558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591547635896	Marionette	INFO	Listening on port 36803
+1591547635968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591547722180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGfy4wB"
+1591547724337	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591547727169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591547727169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591547727170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591547727171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591547737189	Marionette	INFO	Listening on port 35575
+1591547737298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591547791246	Marionette	INFO	Stopped listening on port 36803
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591548292204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekXcI3h"
+1591548294043	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591548297491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591548297492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591548297493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591548297493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591548307514	Marionette	INFO	Listening on port 35109
+1591548307633	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591548598257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6MiEV7"
+1591548600893	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591548604323	Marionette	INFO	Stopped listening on port 35109
+1591548605152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591548605153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591548605154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591548605154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591548615185	Marionette	INFO	Listening on port 37319
+1591548615258	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591548960003	Marionette	INFO	Stopped listening on port 37319
+1591548970954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJIPyi4"
+1591548972835	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591548976157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591548976157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591548976159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591548976159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591548986349	Marionette	INFO	Listening on port 41823
+1591548986390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 148: ChunkLoadError: Loading chunk 314 failed.
+(error: https://abs.twimg.com/responsive-web/web/vendors~ondemand.EmojiPicker.a65faee4.js)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591557142923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiPNYWG"
+1591557149399	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591557153072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591557153072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591557153073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591557153073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591557169920	Marionette	INFO	Listening on port 32873
+1591557169975	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36bc1d52c0 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a1000 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36bc1d6640 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a1000 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36b98c03d0 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36b94a3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36a9a4ce20 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36bf857c00 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36ac62bef0 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36aa3af800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 7f36bb77a530 OpenCubeb() failed to init cubeb: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 [OnMediaSinkAudioError]: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3758
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: Decoder=7f36ad6f3800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-wENs9o/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+1591557552997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS37FWa"
+1591557556334	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591557560578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591557560580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591557560580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591557560581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591557570769	Marionette	INFO	Listening on port 37669
+1591557570865	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591557815426	Marionette	INFO	Stopped listening on port 32873
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591557818460	Marionette	INFO	Stopped listening on port 37669
+1591557843233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegaOv5w"
+1591557844904	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591557848425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591557848427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591557848428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591557848428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591557858467	Marionette	INFO	Listening on port 41053
+1591557858541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 44 failed.
+(error: https://abs.twimg.com/responsive-web/web/bundle.NetworkInstrument.46ba8114.js)
+1591557952273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1dmMB7"
+1591557954061	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591557957688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591557957688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591557957689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591557957689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591557967687	Marionette	INFO	Listening on port 37795
+1591557967755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 44 failed.
+(error: https://abs.twimg.com/responsive-web/web/bundle.NetworkInstrument.46ba8114.js)
+1591558172125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMFmGfG"
+1591558173890	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591558177366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591558177367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591558177367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591558177368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591558188239	Marionette	INFO	Listening on port 39237
+1591558188320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/login, line 148: ChunkLoadError: Loading chunk 266 failed.
+(error: https://abs.twimg.com/responsive-web/web/ondemand.emoji.en.a740b8c4.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 44 failed.
+(error: https://abs.twimg.com/responsive-web/web/bundle.NetworkInstrument.46ba8114.js)
+1591559055708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI465he"
+1591559058213	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591559061398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591559061399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591559061399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591559061400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591559071312	Marionette	INFO	Listening on port 34627
+1591559071346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 173 failed.
+(error: https://abs.twimg.com/responsive-web/web/loader.AppModules.2c788684.js)
+JavaScript error: https://twitter.com/, line 98: ChunkLoadError: Loading chunk 44 failed.
+(error: https://abs.twimg.com/responsive-web/web/bundle.NetworkInstrument.46ba8114.js)
